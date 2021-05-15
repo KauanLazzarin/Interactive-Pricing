@@ -1,0 +1,20 @@
+:root {
+    --dark-blue-text: rgb(35, 35, 78);
+    --light-blue-text: rgba(45, 45, 73, 0.52);
+} 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
