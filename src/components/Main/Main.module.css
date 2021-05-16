@@ -1,0 +1,13 @@
+.mainContainer {
+    width: 90%;
+    height: 90vh;
+    padding: 10vh 0;
+    background-color: white;
+    margin: -22vh auto;
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px 5px rgba(183, 183, 250, 0.267);
+}
