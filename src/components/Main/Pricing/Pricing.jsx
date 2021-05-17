@@ -11,7 +11,7 @@ export default function Pricing () {
 
     return (
         <div className={styles.pricingContainer}>
-            <h3>R$ 50,00</h3>
+            <h3>R$ 50,00 <small>/ month</small></h3>
 
             <div className={styles.optionContainer}>
                 <div className={styles.switch}  onClick={setButtonActive}>
