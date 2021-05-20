@@ -75,7 +75,7 @@
 
 .switchButton input[type="checkbox"]:checked + .toggle {
     left: 50%;
-    background-color:#210a62;
+    background-color:var(--dark-blue-text);
     box-shadow: 1px 1px 10px 0.5px #774cec;
 }
 
